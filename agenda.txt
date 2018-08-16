@@ -1,0 +1,66 @@
+
+
+2018-08-13 19:22                  Files in /root                  Page 1
+
+
+    1	.
+    2	..
+    3	addressbook.sh
+    4	addressbook.sh.save
+    5	agenda.txt
+    6	agenda.txt.back
+    7	.bash_history
+    8	.bashrc
+    9	.cache
+   10	clear-log.sh
+   11	.config
+   12	Desktop
+   13	Documents
+   14	Downloads
+   15	.faraday
+   16	.gnupg
+   17	.hola.swp
+   18	.ICEauthority
+   19	.java
+   20	.jl.swp
+   21	.kio.swp
+   22	.local
+   23	.mozilla
+   24	.msf4
+   25	Music
+   26	p1.xml
+   27	p1.xml.back
+   28	.p1.xml.swp
+   29	Pictures
+   30	.profile
+   31	Public
+   32	.rnd
+   33	SAMUE.txt
+   34	.:set.swp
+   35	Templates
+   36	test.sh
+   37	.vboxclient-clipboard.pid
+   38	.vboxclient-display.pid
+   39	.vboxclient-draganddrop.pid
+   40	.vboxclient-seamless.pid
+   41	Videos
+   42	.viminfo
+   43	.ZAP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
